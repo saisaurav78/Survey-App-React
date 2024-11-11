@@ -18,7 +18,7 @@ The app generates a unique survey ID for each session and stores the responses l
 
 1. Clone the repository:
    ```bash  
-   git clone <https://github.com/saisaurav78/Survey-App-React.git>
+   git clone https://github.com/saisaurav78/Survey-App-React.git
 
 
  2. Install dependencies:
